@@ -1,9 +1,9 @@
 # 📝 Notes App
 
-![GitHub repo size](https://img.shields.io/github/repo-size/<your-username>/notes-app) 
-![GitHub language count](https://img.shields.io/github/languages/count/<your-username>/notes-app) 
-![GitHub top language](https://img.shields.io/github/languages/top/<your-username>/notes-app)
-![License](https://img.shields.io/github/license/<your-username>/notes-app)
+![GitHub repo size](https://img.shields.io/github/repo-size/MrXaid/notes-app) 
+![GitHub language count](https://img.shields.io/github/languages/count/MrXaid/NotesAppChallenge) 
+![GitHub top language](https://img.shields.io/github/languages/top/MrXaid/NotesAppChallenge)
+![License](https://img.shields.io/github/license/MrXaid/NotesAppChallenge)
 
 A **full-stack notes application** built with **Spring Boot** (backend) and **React** (frontend). Store, edit, and manage your notes securely and efficiently.
 
