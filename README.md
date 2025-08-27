@@ -22,14 +22,14 @@ A **full-stack notes application** built with **Spring Boot** (backend) and **Re
 
 ## 🖼 Screenshots
 
-### Login Page
-![Login](./notes-frontend/screenshots/login.png)
-
 ### Notes Dashboard
-![Dashboard](./notes-frontend/screenshots/dashboard.png)
+![Dashboard](./notes-frontend/screenshots/Screenshot 2025-08-27 205851.png)
+
+### Login Page
+![Login](./notes-frontend/screenshots/Screenshot 2025-08-27 205921.png)
 
 ### Add / Edit Note
-![Add Note](./notes-frontend/screenshots/add-note.png)
+![Add Note](./notes-frontend/screenshots/Screenshot 2025-08-27 205903.png)
 
 ---
 
