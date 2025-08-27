@@ -38,7 +38,7 @@ A **full-stack notes application** built with **Spring Boot** (backend) and **Re
 | Frontend | Backend | Database |
 |----------|---------|----------|
 | React    | Spring Boot | H2 / MySQL |
-| Tailwind CSS | Java 17 | JPA / Hibernate |
+| Tailwind CSS | Java 21 | JPA / Hibernate |
 | Axios | Spring Security | |
 
 ---
@@ -47,7 +47,7 @@ A **full-stack notes application** built with **Spring Boot** (backend) and **Re
 
 ### Prerequisites
 
-- Java 17+
+- Java 21
 - Maven
 - Node.js & npm
 - Git
