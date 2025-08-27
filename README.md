@@ -1,6 +1,6 @@
 # 📝 Notes App
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MrXaid/notes-app) 
+![GitHub repo size](https://img.shields.io/github/repo-size/MrXaid/NotesAppChallenge) 
 ![GitHub language count](https://img.shields.io/github/languages/count/MrXaid/NotesAppChallenge) 
 ![GitHub top language](https://img.shields.io/github/languages/top/MrXaid/NotesAppChallenge)
 ![License](https://img.shields.io/github/license/MrXaid/NotesAppChallenge)
